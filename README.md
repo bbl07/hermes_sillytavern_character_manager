@@ -154,4 +154,4 @@ Verified against [SillyTavern world-info.js](https://github.com/SillyTavern/Sill
 
 ## License
 
-MIT.
+Apache 2.0.
