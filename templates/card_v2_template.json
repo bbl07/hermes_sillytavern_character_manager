@@ -1,0 +1,30 @@
+{
+  "_comment": "Authoring template for Character Card V2. first_message maps to first_mes; character_note maps to extensions.depth_prompt (SillyTavern's Character's Note). <<name>> variables are substituted by prompt_parser. SillyTavern {{char}} / {{user}} macros pass through verbatim.",
+  "name": "",
+  "description": "<<description>>",
+  "personality": "<<personality>>",
+  "scenario": "<<scenario>>",
+  "first_message": "<<first_message>>",
+  "mes_example": "<<mes_example>>",
+  "creator_notes": "",
+  "system_prompt": "<<system_prompt>>",
+  "post_history_instructions": "",
+  "alternate_greetings": [],
+  "tags": [],
+  "creator": "",
+  "character_version": "1.0",
+  "extensions": {},
+  "character_note": {
+    "prompt": "<<character_note>>",
+    "role": "system",
+    "depth": 4
+  },
+  "lorebook": {
+    "name": "",
+    "description": "",
+    "scan_depth": 10,
+    "token_budget": 2048,
+    "recursive_scanning": false,
+    "entries": []
+  }
+}

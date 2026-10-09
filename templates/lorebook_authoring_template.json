@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Entry title (memo)",
+    "keys": [
+      "trigger",
+      "words"
+    ],
+    "secondary_keys": [],
+    "content": "Lore content injected when any `keys` match in recent chat (or always, if `constant`).",
+    "constant": false,
+    "order": 100,
+    "priority": 10,
+    "position": "after_char",
+    "role": "system",
+    "group": "",
+    "disable": false,
+    "case_sensitive": false,
+    "match_whole_words": true,
+    "scan_depth": null,
+    "probability": 100
+  }
+]

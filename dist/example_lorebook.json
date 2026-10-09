@@ -1,0 +1,43 @@
+{
+  "entries": {
+    "0": {
+      "uid": 0,
+      "key": [
+        "trigger",
+        "words"
+      ],
+      "keysecondary": [],
+      "comment": "Entry title (memo)",
+      "content": "Lore content injected when any `keys` match in recent chat (or always, if `constant`).",
+      "constant": false,
+      "selective": false,
+      "selectiveLogic": 0,
+      "order": 100,
+      "position": 1,
+      "disable": false,
+      "excludeRecursion": false,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": true,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": 0,
+      "vectorized": false,
+      "sticky": 0,
+      "cooldown": 0,
+      "delay": 0
+    }
+  },
+  "name": "lorebook",
+  "description": "",
+  "scanDepth": 4,
+  "tokenBudget": 512,
+  "recursiveScanning": true,
+  "extensions": {}
+}
